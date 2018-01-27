@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0873D88C-F591-464E-9F19-DC5F4057BA91}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myFirstWebApi/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="myFirstWebApi/Program.cs" Line="18" Column="10" />
+      <File FileName="myFirstWebApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="myFirstWebApi/Controllers/ValuesController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.myFirstWebApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

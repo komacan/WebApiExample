@@ -1,0 +1,11 @@
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/bin/Debug/netcoreapp2.0/myFirstWebApi.deps.json
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/bin/Debug/netcoreapp2.0/myFirstWebApi.runtimeconfig.json
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/bin/Debug/netcoreapp2.0/myFirstWebApi.runtimeconfig.dev.json
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/bin/Debug/netcoreapp2.0/myFirstWebApi.dll
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/bin/Debug/netcoreapp2.0/myFirstWebApi.pdb
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.csproj.CoreCompileInputs.cache
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.AssemblyInfoInputs.cache
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.AssemblyInfo.cs
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.dll
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.pdb
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.csprojResolveAssemblyReference.cache

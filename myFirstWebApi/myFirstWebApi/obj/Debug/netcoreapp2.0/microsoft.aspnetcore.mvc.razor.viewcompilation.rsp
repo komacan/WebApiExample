@@ -1,0 +1,5 @@
+/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=myFirstWebApi
+--content-root=/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi
+--file=
