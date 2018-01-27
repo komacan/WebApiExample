@@ -9,3 +9,14 @@
 /Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.dll
 /Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.pdb
 /Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.csprojResolveAssemblyReference.cache
+/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/bin/Debug/netcoreapp2.0/myFirstWebApi.deps.json
+/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/bin/Debug/netcoreapp2.0/myFirstWebApi.runtimeconfig.json
+/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/bin/Debug/netcoreapp2.0/myFirstWebApi.runtimeconfig.dev.json
+/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/bin/Debug/netcoreapp2.0/myFirstWebApi.dll
+/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/bin/Debug/netcoreapp2.0/myFirstWebApi.pdb
+/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.csprojResolveAssemblyReference.cache
+/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.csproj.CoreCompileInputs.cache
+/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.AssemblyInfoInputs.cache
+/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.AssemblyInfo.cs
+/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.dll
+/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/obj/Debug/netcoreapp2.0/myFirstWebApi.pdb
