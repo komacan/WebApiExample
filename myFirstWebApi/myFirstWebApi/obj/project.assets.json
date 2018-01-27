@@ -28532,11 +28532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/myFirstWebApi.csproj",
+      "projectUniqueName": "/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/myFirstWebApi.csproj",
       "projectName": "myFirstWebApi",
-      "projectPath": "/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/myFirstWebApi.csproj",
+      "projectPath": "/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/myFirstWebApi.csproj",
       "packagesPath": "/Users/Kurt/.nuget/packages/",
-      "outputPath": "/Users/Kurt/Projects/myFirstWebApi/myFirstWebApi/obj",
+      "outputPath": "/Users/Kurt/Documents/DEV/c#/myFirstWebApi/myFirstWebApi/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
