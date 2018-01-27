@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -18,15 +19,21 @@ namespace myFirstWebApi.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public IActionResult Get([FromQuery] int id, string query)
         {
-            return $"value {id}";
+            return Ok(new Value { Id = id, Text = "value" + id});
         }
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody]string value)
+        public IActionResult Post([FromBody]Value value)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            return CreatedAtAction("Get", new { id = value.Id}, value);
         }
 
         // PUT api/values/5
@@ -40,5 +47,13 @@ namespace myFirstWebApi.Controllers
         public void Delete(int id)
         {
         }
+    }
+
+    public class Value
+    {
+        public int Id { get; set; }
+
+        [MinLength(3)]
+        public string Text { get; set; }
     }
 }
